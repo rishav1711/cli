@@ -12,6 +12,6 @@ System.out.println(a);
 
 BufferedReader bc1=new BufferedReader(new InputStreamReader(System.in));
 String name=bc1.readLine();
-System.out.println(a);
+System.out.println(name);
 }
 }
